@@ -1,0 +1,97 @@
+{ 
+  "_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",
+  "name": "All Categories", "children": [
+    {
+      "name": "Chemicals and Drugs Category", "children": [
+        {"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"},
+        {
+          "name": "Amino Acids, Peptides, and Proteins", "children": [
+            {"name": "Amino Acids", "value": 749136, "ann": 10935, "abs": 300, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "corpus": "bionlp-st-cg-2013-training"},
+            {"name": "Proteins", "value": 5593991, "ann": 110200, "abs": 4529, "proj": 11, "link": ["<a href=http://pubannotation.org/projects/jnlpba-st-training>jnlpba-st-training</a>", "<a href=http://pubannotation.org/projects/AIMEd>AIMed</a>", "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-pc-2013-training>bionlp-st-pc-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-epi-2011-training>bionlp-st-epi-2011-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "<a href=http://pubannotation.org/projects/PIR>PIR</a>", "<a href=http://pubannotation.org/projects/CoMAGC>CoMAGC</a>", "<a href=http://pubannotation.org/projects/CellFinder>CellFinder</a>", "<a href=http://pubannotation.org/projects/LocText>LocText</a>", "<a href=http://pubannotation.org/projects/bionlp-st-ge-2016-test-proteins>bionlp-st-ge-2016-test-proteins</a>"], "corpus": ["jnlpba-st-training", "AIMed", "bionlp-st-cg-2013-training", "bionlp-st-pc-2013-training", "bionlp-st-epi-2011-training", "bionlp-st-id-2011-training", "PIR", "CoMAGC", "CellFinder", "LocText", "bionlp-st-ge-2016-test-proteins"]}
+          ]
+        },
+        {
+          "name": "Nucleic Acids, Nucleotides, and Nucleosides", "children": [
+            {
+              "name": "Nucleic Acids", "children": [
+                {"name": "DNA", "value": 694028, "ann": 63753, "abs": 2706, "proj": 3, "link": ["<a href=http://pubannotation.org/projects/jnlpba-st-training>jnlpba-st-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/CoMAGC>CoMAGC</a>"], "corpus": ["jnlpba-st-training", "bionlp-st-cg-2013-training"]},
+                {"name": "RNA", "value": 712077, "ann": 84812, "abs": 3174, "proj": 6, "link": ["<a href=http://pubannotation.org/projects/jnlpba-st-training>jnlpba-st-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-pc-2013-training>bionlp-st-pc-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-epi-2011-training>bionlp-st-epi-2011-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "<a href=http://pubannotation.org/projects/CoMAGC>CoMAGC</a>"], "corpus": ["jnlpba-st-training", "bionlp-st-cg-2013-training", "bionlp-st-pc-2013-training", "bionlp-st-epi-2011-training", "CoMAGC"]}
+              ]
+            }
+          ]
+        },
+        {"name": "Polycyclic Compounds", "value": 1454339, "ann": 1206, "abs": 100, "proj": 1, "link": "<a href=http://pubannotation.org/projects/SCAI>SCAI</a>", "corpus": "SCAI"} 
+      ]
+    },
+    {
+      "name": "Anatomy Category", "children": [
+        {"name": "Body Regions", "value": 737202, "ann": 1946, "abs": 250, "proj": 1, "link": "<a href=http://pubannotation.org/projects/AnEM_abstracts>AnEM_abstracts</a>", "corpus": "AnEM_abstracts"},
+        {"name": "Tissues", "value": 1660801, "ann": 12881, "abs": 550, "proj": 2,  "link": ["<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/AnEM_abstracts>AnEM_abstracts</a>"], "corpus": ["bionlp-st-cg-2013-training","AnEM_abstracts"]},
+        {"name": "Cells", "value": 3877392, "ann": 79070, "abs": 2919, "proj": 6,  "link": ["<a href=http://pubannotation.org/projects/jnlpba-st-training>jnlpba-st-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-pc-2013-training>bionlp-st-pc-2013-training</a>", "<a href=http://pubannotation.org/projects/AnEM_abstracts>AnEM_abstracts</a>", "<a href=http://pubannotation.org/projects/CellFinder>CellFinder</a>", "<a href=http://pubannotation.org/projects/LocText>LocText</a>"], "corpus": ["jnlpba-st-training", "bionlp-st-cg-2013-training", "bionlp-st-pc-2013-training", "AnEM_abstracts", "CellFinder", "LocText"]}
+      ]
+    },
+    {
+      "name":"Phenomena and Processes Category", "children": [
+        {
+          "name": "Genetic Phenomena", "children": [
+            {"name": "Gene Expression", "value": 3172006, "ann": 9964, "abs": 600, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PIR>PIR</a>", "corpus": "PIR"},
+            {
+              "name": "Genetic Structures", "children": [
+                {
+                  "name": "Genome", "children": [
+                    {
+                      "name": "Genome Components", "children": [
+                        {"name": "Genes", "value": 705082, "ann": 80695, "abs": 3687, "proj": 11,  "link": ["<a href=http://pubannotation.org/projects/AIMed>AIMed</a>", "<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/PennBioIE 0.9>PennBioIE 0.9</a>", "<a href=http://pubannotation.org/projects/bionlp-st-pc-2013-training>bionlp-st-pc-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-epi-2011-training>bionlp-st-epi-2011-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "<a href=http://pubannotation.org/projects/PIR>PIR</a>", "<a href=http://pubannotation.org/projects/CoMAGC>CoMAGC</a>", "<a href=http://pubannotation.org/projects/CellFinder>CellFinder</a>", "<a href=http://pubannotation.org/projects/LocText>LocText</a>", "<a href=http://pubannotation.org/projects/bionlp-st-ge-2016-test-proteins>bionlp-st-ge-2016-test-proteins</a>"], "corpus": ["AIMed", "bionlp-st-cg-2013-training", "PennBioIE 0.9", "bionlp-st-pc-2013-training", "PIR", "CoMAGC", "CellFinder", "LocText", "bionlp-st-ge-2016-test-proteins"]},
+                        {"name": "Operon", "value": 23709, "ann": 5609, "abs": 15, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "corpus": "bionlp-st-id-2011-training"},
+                        {"name": "Regulon", "value": 2135, "ann": 5609, "abs": 15, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "corpus": "bionlp-st-id-2011-training"}
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Base Sequence", "children": [
+                    {
+                      "name":"Regulatory Sequences, Nucleic Acid", "children": [
+                        {"name": "Gene Regulatory Networks", "value": 12950, "ann": 9964, "abs": 600, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PIR>PIR</a>", "corpus": "PIR"}
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Genetic Variation", "children": [
+                {"name": "Mutation", "value": 668587, "ann": 14356, "abs": 20, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-ge-2016-reference>bionlp-st-ge-2016-reference</a>", "corpus": "bionlp-st-ge-2016-reference"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chemical Phenomena", "children": [
+            {
+              "name": "Biochemical Phenomena", "children": [
+                {"name": "Molecular Structure", "value": 1712581, "ann": 28494, "abs": 1500, "proj": 3, "link": ["<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-epi-2011-training>bionlp-st-epi-2011-training</a>", "<a href=http://pubannotation.org/projects/PIR>PIR</a>"], "corpus": ["bionlp-st-cg-2013-training", "bionlp-st-epi-2011-training", "PIR"]},              
+                {"name": "Up-Regulation", "value": 114974, "ann": 11430, "abs": 3116, "proj": 1, "link": "<a href=http://pubannotation.org/projects/2015-BEL-Sample-2>2015-BEL-Sample-2</a>", "corpus": "2015-BEL-Sample-2"},
+                {"name": "Ecological and Environmental Phenomena", "value": 923570, "ann": 1292, "abs": 71, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-bb3-2016-training>bionlp-st-bb3-2016-training</a>", "corpus": "bionlp-st-bb3-2016-training"}
+              ]
+            }
+          ]
+        },
+        {"name": "Biological Phenomena", "value": 1672514, "ann": 11430, "abs": 3116, "proj": 1, "link": "<a href=http://pubannotation.org/projects/2015-BEL-Sample-2>2015-BEL-Sample-2</a>", "corpus": "2015-BEL-Sample-2"}
+      ]
+    },
+    {"name": "Organisms Category", "value": 21889592, "ann": 27399, "abs": 1566, "proj": 7, "link": ["<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/bionlp-st-id-2011-training>bionlp-st-id-2011-training</a>", "<a href=http://pubannotation.org/projects/CellFinder>CellFinder</a>", "<a href=http://pubannotation.org/projects/SPECIES800>SPECIES800</a>", "<a href=http://pubannotation.org/projects/LocText>LocText</a>", "<a href=http://pubannotation.org/projects/bionlp-st-bb3-2016-training>bionlp-st-bb3-2016-training</a>", "<a href=http://pubannotation.org/projects/CyanoBase>CyanoBase</a>"], "corpus": ["bionlp-st-cg-2013-training", "bionlp-st-id-2011-training", "CellFinder", "SPECIES800", "LocText", "bionlp-st-bb3-2016-training", "CyanoBase"]},
+    {
+      "name": "Diseases Category", "children": [
+        {"name": "Neoplasms", "value": 2920679, "ann": 36344, "abs": 1864, "proj": 3, "link": ["<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>","<a href=http://pubannotation.org/projects/PennBioIE 0.9>PennBioIE 0.9</a>", "<a href=http://pubannotation.org/projects/CoMAGC>CoMAGC</a>"], "corpus": ["bionlp-st-cg-2013-training", "PennBioIE 0.9", "CoMAGC"]},
+        {"name": "Pathological Conditions, Signs and Symptoms", "value": 4959207, "ann": 19762, "abs": 1342, "proj": 3, "link": ["<a href=http://pubannotation.org/projects/bionlp-st-cg-2013-training>bionlp-st-cg-2013-training</a>", "<a href=http://pubannotation.org/projects/AnEM_abstracts>AnEM_abstracts</a>", "<a href=http://pubannotation.org/projects/NCBIDiseaseCorpus>NCBIDiseaseCorpus</a>"], "corpus": ["bionlp-st-cg-2013-training", "AnEM_abstracts", "NCBIDiseaseCorpus"]}
+      ]
+    },
+    {
+      "name": "Disciplines and Occupations Category", "children": [
+        {"name": "Health Occupations", "value": 1556568, "ann": 11430, "abs": 3116, "proj": 1, "link": "<a href=http://pubannotation.org/projects/2015-BEL-Sample-2>2015-BEL-Sample-2</a>", "corpus": "2015-BEL-Sample-2"},
+        {"name": "Natural Science Disciplines", "value": 2243269, "ann": 1292, "abs": 71, "proj": 1, "link": "<a href=http://pubannotation.org/projects/bionlp-st-bb3-2016-training>bionlp-st-bb3-2016-training</a>", "corpus": "bionlp-st-bb3-2016-training"}
+      ]
+    }
+  ]
+}
