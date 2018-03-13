@@ -5,7 +5,6 @@ PubAnnotation Map is a zoomable treemap to visualise and discover the hierarchic
 
 
 
-
 # Data format 
 ```json
 { 
@@ -19,8 +18,11 @@ PubAnnotation Map is a zoomable treemap to visualise and discover the hierarchic
 
 # Usage
 Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
-Cell size is proportional to the number of PubMed abstracts.<br>
-Different shades of color are related to the number of PubAnnotation <br>
+<li>Cell size is proportional to the number of PubMed abstracts.</li>
+<li>Different shades of color are related to the number of PubAnnotation </li>
 
 # Acknowledgements
 Zoomable treemap was originally developed by <a href="https://bost.ocks.org/mike/treemap/">Mike Bostock</a> using the javascript libray <a href="https://d3js.org">D3.js</a>. 
+
+# License
+PubAnnotation Map is freely available to anyone. 
