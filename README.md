@@ -9,11 +9,11 @@ PubAnnotation Map is a zoomable treemap to visualise and discover the hierarchic
 # Data format 
 ```json
 { 
-		"_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",
-		"name": "All Categories", "children": [
-				{
-					"name": "Chemicals and Drugs Category", "children": [
-							{"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"}]}]}
+	"_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",
+	"name": "All Categories", "children": [
+		{
+			"name": "Chemicals and Drugs Category", "children": [
+				{"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"}]}]}
 ```
 ![alt text](logo.png)
 
