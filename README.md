@@ -1,5 +1,5 @@
 # pubannotation-map
-![alt text](http://www.pubannotation.org/logo.png)
+![alt text](logo.png)
 
 Click any cell to zoom in, or the top facebook blue label to zoom out.
 Cell size is proportional to the number of PubMed abstracts.
