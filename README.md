@@ -26,4 +26,5 @@ Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
 PubAnnotation Map was based on the original work of <a href="https://bost.ocks.org/mike/treemap/">Mike Bostock</a> using the javascript libray <a href="https://d3js.org">D3.js</a> and the work of <a href="https://gist.github.com/JacquesJahnichen/42afd0cde7cbf72ecb81">Jahnichen Jacques</a>.
 
 # License
-All rights reserved belongs to PubAnnotation. ![alt text](logo.png)
+All rights reserved belongs to PubAnnotation. 
+<!---![alt text](logo.png)--->
