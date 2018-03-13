@@ -10,6 +10,6 @@ Different shades of color are related to the number of PubAnnotation
   "name": "All Categories", "children": [
     {
       "name": "Chemicals and Drugs Category", "children": [
-        {"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"},
-        
+        {"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"}
+        ]}]}
 ```   
