@@ -1,5 +1,3 @@
-# pubannotation-map
-
 # Introduction
 <a href="https://en.wikipedia.org/wiki/Treemapping">Treemap</a> is a form used to display/discover hierarchical data. PubAnnotation Map is a zoomable treemap to easily get the clear view of the <a href="http://pubannotation.org">PubAnnotation</a> datasets. 
 
