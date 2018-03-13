@@ -1,7 +1,7 @@
 # pubannotation-map
 
 # Introduction
-PubAnnotation Map is a zoomable treemap to visualise and discover the hierarchical data from <a href="http://pubannotation.org">PubAnnotation</a>.
+PubAnnotation Map is a zoomable <a href="https://en.wikipedia.org/wiki/Treemapping">treemap</a> to display and discover the hierarchical data from <a href="http://pubannotation.org">PubAnnotation</a>. 
 
 
 
