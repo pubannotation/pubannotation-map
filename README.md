@@ -5,7 +5,7 @@ Different shades of color are related to the number of PubAnnotation
 
 # Data format 
 {<br> 
-  "_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",<br>
+  <i>"_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",</i><br>
   "name": "All Categories", "children": [<br>
     {<br>
       "name": "Chemicals and Drugs Category", "children": [<br>
