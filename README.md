@@ -1,14 +1,15 @@
 # pubannotation-map
 
 # Introduction
-PubAnnotation Map is a zoomable <a href="https://en.wikipedia.org/wiki/Treemapping">treemap</a> to display and discover the hierarchical data from <a href="http://pubannotation.org">PubAnnotation</a>. 
+<a href="https://en.wikipedia.org/wiki/Treemapping">Treemap</a> is a form used to display/discover hierarchical data. PubAnnotation Map is a zoomable treemap to easily get the clear view of the <a href="http://pubannotation.org">PubAnnotation</a> datasets. 
 
-
+# Demo
+<a href="https://s3-ap-northeast-1.amazonaws.com/treemap.pubannotation.org/index.1.0.html">Here<a/>. 
 
 # Data format 
 ```json
 { 
-	"_comment": "value: Number of PubMed abstracs. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",
+	"_comment": "value: Number of PubMed abstracts. proj: Number of PubAnnotation projects. ann: Number of PubAnnotation annotations. abs: Number of PubAnnotation abstracts",
 	"name": "All Categories", "children": [
 		{
 			"name": "Chemicals and Drugs Category", "children": [
@@ -22,7 +23,7 @@ Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
 <li>Different shades of color are related to the number of PubAnnotation </li>
 
 # Acknowledgements
-Zoomable treemap was originally developed by <a href="https://bost.ocks.org/mike/treemap/">Mike Bostock</a> using the javascript libray <a href="https://d3js.org">D3.js</a>. 
+PubAnnotation Map was based on the original work of <a href="https://bost.ocks.org/mike/treemap/">Mike Bostock</a> using the javascript libray <a href="https://d3js.org">D3.js</a> and the work of <a href="https://gist.github.com/JacquesJahnichen/42afd0cde7cbf72ecb81">Jahnichen Jacques</a>.
 
 # License
 PubAnnotation Map is freely available to anyone. 
