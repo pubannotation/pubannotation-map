@@ -1,5 +1,8 @@
 # pubannotation-map
 
+# Introduction
+PubAnnotation Map is a zoomable treemap to visualise and discover the hierarchical data from <a href="http://pubannotation.org">PubAnnotation</a>.
+Treemaps are a form of visualization where the area of each rectangle is proportional to its value. Originally developed by Mike Bostock the treemap uses D3.js. This version extends the original library allowing to use the treemap as a navigation device for web and mobile users.
 
 Click any cell to zoom in, or the top facebook blue label to zoom out.
 Cell size is proportional to the number of PubMed abstracts.
