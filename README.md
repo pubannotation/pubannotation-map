@@ -15,7 +15,7 @@
 			"name": "Chemicals and Drugs Category", "children": [
 				{"name": "Enzymes and Coenzymes", "value": 2747112, "ann": 23881, "abs": 1157, "proj": 1, "link": "<a href=http://pubannotation.org/projects/PennBioIE>PennBioIE 0.9</a>", "corpus": "PennBioIE 0.9"}]}]}
 ```
-![alt text](logo.png)
+
 
 # Usage
 Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
@@ -26,4 +26,4 @@ Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
 PubAnnotation Map was based on the original work of <a href="https://bost.ocks.org/mike/treemap/">Mike Bostock</a> using the javascript libray <a href="https://d3js.org">D3.js</a> and the work of <a href="https://gist.github.com/JacquesJahnichen/42afd0cde7cbf72ecb81">Jahnichen Jacques</a>.
 
 # License
-PubAnnotation Map is freely available to anyone. 
+All rights reserved belongs to PubAnnotation. ![alt text](logo.png)
