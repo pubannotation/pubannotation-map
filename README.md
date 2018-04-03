@@ -16,7 +16,7 @@
 
 
 # Usage
-Click any cell to zoom in, or the top facebook blue label to zoom out.<br>
+Click any cell to zoom in, or the top facebook blue label to zoom out.<br><br>
 <li>Cell size is proportional to the number of PubMed abstracts.</li>
 <li>Different shades of color are related to the number of PubAnnotation </li>
 
